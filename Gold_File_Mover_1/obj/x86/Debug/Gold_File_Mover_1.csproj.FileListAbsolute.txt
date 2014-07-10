@@ -1,0 +1,34 @@
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.pdb
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Form1.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Properties.Resources.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.pdb
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.exe
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.pdb
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.exe
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.pdb
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Form1.resources
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Properties.Resources.resources
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\My Dropbox\Programs\Gold_File_Mover_1\Gold_File_Mover_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.exe
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.pdb
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.exe
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.pdb
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Form1.resources
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Properties.Resources.resources
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Robert\Desktop\CodingDump\Gold_File_Mover_1\v2\Gold_File_Mover_1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.exe
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.pdb
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.exe
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\bin\Debug\Gold_File_Mover_1.pdb
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Form1.resources
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.Properties.Resources.resources
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.csproj.GenerateResource.Cache

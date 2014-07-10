@@ -1,0 +1,4 @@
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.exe
+G:\Robert\CodingDump\Gold_File_Mover_1\v2 - Working\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.pdb
+G:\Robert\CodingDump\File-Mover\v1\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.exe
+G:\Robert\CodingDump\File-Mover\v1\Gold_File_Mover_1\obj\x86\Debug\Gold_File_Mover_1.pdb
